@@ -1,0 +1,16 @@
+components used:
+
+Node MCU (ESP8266) 
+Arduino Uno R3 
+DHT11 Sensor 
+16*2 LCD DISPLAY 
+GAS SENSOR(MQ2) 
+BUZZER 
+FLAME SENSOR 
+GPS 
+EMERGENCY BUTTON 
+
+
+
+cloud:
+THINGSPEAK CLOUD
